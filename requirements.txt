@@ -1,0 +1,5 @@
+requests
+prompt_toolkit
+pypresence
+nest_asyncio
+sentry_sdk==0.16.1

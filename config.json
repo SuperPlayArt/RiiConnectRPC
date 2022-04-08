@@ -1,0 +1,12 @@
+{
+  "version": "1.1.4",
+  "oauth2": {
+    "client_id": "737308231986315348",
+    "client_secret": "mUzw1PJQjOJc0h94fPSixque2GrQxITv",
+    "port": 4000
+  },
+  "rpc": {
+    "client_id": "961967145460334622"
+  },
+  "user_id": "9c70a770-f55e-42b8-a39a-252ab1cb7e34"
+}
