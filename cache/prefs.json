@@ -1,0 +1,4 @@
+{
+    "check_interval": 10,
+    "presence_timeout": 30
+}
